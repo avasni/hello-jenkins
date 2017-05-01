@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/avasni/hello-jenkins#readme",
   "dependencies": {
-    "express": "^4.15.2"
+    "express": "^4.15.2",
+    "forever": "^0.15.3"
   },
   "devDependencies": {
     "mocha": "^3.3.0",
